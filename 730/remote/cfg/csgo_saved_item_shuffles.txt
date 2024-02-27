@@ -1,0 +1,12 @@
+"SavedItemShuffles"
+{
+	"3604480"
+	{
+		"enabled"		"0"
+		"items"
+		{
+			"0"		"0x00000006EDDF126D"
+			"1"		"0x00000005BEAE6EFE"
+		}
+	}
+}
